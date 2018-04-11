@@ -1,0 +1,72 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Гошко",
+      "type": "куче",
+      "age": 1,
+      "color": "черен",
+      "favFood": "кокали",
+      "imgUrl": "https://www.randomdoggiegenerator.com/randomdoggie.php"
+    },
+    {
+      "id": 2,
+      "name": "Тошко",
+      "type": "коте",
+      "age": 3,
+      "color": "бял",
+      "favFood": "мишки",
+      "imgUrl": "http://www.randomkittengenerator.com/cats/rotator.php"
+    },
+    {
+      "id": 3,
+      "name": "Рошко",
+      "type": "куче",
+      "age": 5,
+      "color": "кафяв",
+      "favFood": "гранули",
+      "imgUrl": "https://www.randomdoggiegenerator.com/randomdoggie.php"
+    },
+    {
+      "id": 4,
+      "name": "Бошко",
+      "type": "коте",
+      "age": 2,
+      "color": "жълт",
+      "favFood": "гранули",
+      "imgUrl": "http://www.randomkittengenerator.com/cats/rotator.php"
+    },
+    {
+      "id": 5,
+      "name": "Дошко",
+      "type": "костенурка",
+      "age": 65,
+      "color": "зелен",
+      "favFood": "трева",
+      "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8a/ef/4e/wow-big-turtle-park-in.jpg"
+    }
+  ],
+  "adopters": [
+    {
+      "id": 1,
+      "name": "Васил Димитров",
+      "age": 20,
+      "city": "Plovdiv",
+      "gender": "M"
+    },
+    {
+      "id": 2,
+      "name": "Ганка Георгиева",
+      "age": 17,
+      "city": "Sofia",
+      "gender": "F"
+    },
+    {
+      "id": 3,
+      "name": "Борислав Минчев",
+      "age": 58,
+      "city": "Burgas",
+      "gender": "M"
+    }
+  ]
+}
